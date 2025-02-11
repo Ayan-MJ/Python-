@@ -1,11 +1,11 @@
 ## Challenge 1. Reverse a list
 
-# fruits = ["apple", "banans", "cherry"]
+fruits = ["apple", "banans", "cherry"]
 
-# for fruit in reversed(fruits):
-#     print(fruit)
+for fruit in reversed(fruits):
+    print(fruit)
 
-## Challenge 2. Find Even Numbers in a Range of 1 to 20
+## Challenge 2: Find Even Numbers in a Range of 1 to 20
 
 # for number in range (2, 21, 2):
 #     print(number, end=" ") # print all the numbers on one line
@@ -27,7 +27,7 @@
 #     for j in range(1, 4):
 #         print(f"{i} * {j} = {i * j}")
 
-# ## Challenge 5: Occurence of letter 'a' in the lsit of strings
+## Challenge 5: Occurence of letter 'a' in the list of strings
 
 # words = ["apple", "banana", "grape", "avocado"]
 

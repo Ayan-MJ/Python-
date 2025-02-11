@@ -22,4 +22,13 @@ number(n)
 
 # Calculate the Sum of a list
 
-num = []
+def sum(num):
+    total = 0
+    for i in num:
+        total += i
+    print(total)
+
+num = [8, 9, 22, 5, 2]
+
+sum(num)
+

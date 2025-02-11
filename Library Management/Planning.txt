@@ -1,0 +1,8 @@
+First, let's deifne the main components of the project
+
+1. Book: Represents the book, with attributes like title, author and availabaility
+
+2. User: Represents a user who can borrow books, with attributes like name and borrowed books list
+
+3. Library: Manages the collections of books and allows users to borrow or return books.
+
